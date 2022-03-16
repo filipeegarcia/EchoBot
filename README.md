@@ -4,7 +4,7 @@
 
 To install the dependencies, from the `$yourPath/EchoBotandInterpolate` directry, go to the fullstack directory: `cd assignments/fullstack/`, and then execute: `yarn install`.
 
-### Running the app
+### Running the EchoBot App
 
 To run the application, simply execute: `node server.js` on the `$yourPath/EchoBotandInterpolate/assignments/fullstack` directory.
 
